@@ -1,0 +1,19 @@
+94339 nodes expanded
+cost = 2736
+ship Sydney to UrWgipbE
+Ship UrWgipbE to cMhrYBYC
+Ship cMhrYBYC to IPoywJBc
+Ship IPoywJBc to fvkREbDG
+Ship fvkREbDG to KhniWZZk
+Ship KhniWZZk to QXKEvKzm
+Ship QXKEvKzm to UrWgipbE
+Ship UrWgipbE to IVIHqhye
+Ship IVIHqhye to cBIcRNFF
+Ship cBIcRNFF to GZnXKyhC
+Ship GZnXKyhC to IZaciGpC
+Ship IZaciGpC to TEiEHJzc
+Ship TEiEHJzc to OvJYuazP
+Ship OvJYuazP to HVZnMzlv
+Ship HVZnMzlv to Sydney
+Ship Sydney to GkYlVayq
+Ship GkYlVayq to BYMBclmb

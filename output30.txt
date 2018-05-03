@@ -1,0 +1,9 @@
+41 nodes expanded
+cost = 1082
+Ship Sydney to WUkYLljT
+Ship WUkYLljT to SHEtSdah
+Ship SHEtSdah to CofGcBun
+Ship CofGcBun to aTRCWEvD
+Ship aTRCWEvD to sglrvxXU
+Ship sglrvxXU to TOIBMjpJ
+Ship TOIBMjpJ to iEmtQJfU
