@@ -1,0 +1,26 @@
+Refuelling 30 Sydney 
+Refuelling 25 Wellington 
+Refuelling 10 X 
+Refuelling 20 Queenstown 
+Refuelling 20 Christchurch 
+Refuelling 30 London 
+Time 190 London Sydney 
+Time 190 London Wellington 
+Time 180 London X 
+Time 180 London Queenstown 
+Time 190 London Christchurch 
+Time 60 Sydney Wellington 
+Time 110 Sydney X 
+Time 110 Sydney Queenstown 
+Time 90 Sydney Christchurch 
+Time 75 Wellington X 
+Time 75 Wellington Queenstown 
+Time 50 Wellington Christchurch 
+Time 40 X Queenstown 
+Time 50 X Christchurch 
+Time 60 Queenstown Christchurch 
+Shipment Queenstown Christchurch
+Shipment London X
+Shipment X Queenstown
+Shipment Wellington London
+

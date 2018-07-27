@@ -1,0 +1,25 @@
+Transfer 30 Auckland 
+Transfer 25 Wellington 
+Transfer 10 X 
+Transfer 20 Queenstown 
+Transfer 20 Christchurch 
+Transfer 30 London 
+Time 190 London Auckland 
+Time 190 London Wellington 
+Time 180 London X 
+Time 180 London Queenstown 
+Time 190 London Christchurch 
+Time 60 Auckland Wellington 
+Time 110 Auckland X 
+Time 110 Auckland Queenstown 
+Time 90 Auckland Christchurch 
+Time 75 Wellington X 
+Time 75 Wellington Queenstown 
+Time 50 Wellington Christchurch 
+Time 40 X Queenstown 
+Time 50 X Christchurch 
+Time 60 Queenstown Christchurch 
+Trip Auckland Christchurch
+Trip London X
+Trip X Queenstown
+Trip Wellington London
